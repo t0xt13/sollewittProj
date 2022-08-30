@@ -1,0 +1,2 @@
+# sollewittProj
+mini project
